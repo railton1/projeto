@@ -1,3 +1,31 @@
-body{
-	text-align: center;
+h1{
+	font-size: 48px;
+}
+h2{
+	font-size: 36px;
+}
+.container {
+        width: 100vw;
+         display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        color: #FF9900;
+}
+.img-config1{
+	max-width: 132px;
+}
+.form-control{
+	height: 0px;
+	width: 120px;
+}
+.body-control{
+	background: #777;
+}
+.btn-lg{
+	color: #FFFFFF;
+	background: #FF9900;
+	font-size: 25px;
+	padding-left: 1cm;
+	padding-right: 1cm;
 }
