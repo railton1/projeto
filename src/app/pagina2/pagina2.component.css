@@ -29,3 +29,9 @@ h2{
 	padding-left: 1cm;
 	padding-right: 1cm;
 }
+h2{
+	color: #FF9900;
+}
+.img-config2{
+	max-width: 64px;
+}
